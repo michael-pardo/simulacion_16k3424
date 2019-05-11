@@ -1,0 +1,9 @@
+
+\.idea/
+*.py
+
+
+*.ipynb_checkpoints/
+
+Adictosaltrabajo\.com - Jupyter\.ipynb
+.DS_Store
